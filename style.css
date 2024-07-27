@@ -34,7 +34,8 @@ h2{
 }
 .green-text{
     font-size: 12px;
-    color:hsl(75, 94%, 57%)
+    color:hsl(75, 94%, 57%);
+    font-weight:600;
 }
 .text{
    line-height: 4;
